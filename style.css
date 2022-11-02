@@ -1,0 +1,24 @@
+.bckg {
+
+    background-color: black;
+
+}
+
+.front {
+
+background-color: gray;
+}
+
+.navi {
+    height: auto;
+}
+.lists {
+list-style: none;
+display: flex;
+    /* flex-direction: row */
+    justify-content: space-between;
+}
+
+.cont {
+    
+}
